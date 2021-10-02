@@ -1,0 +1,21 @@
+PODS:
+  - immersive-reader-sdk (1.0.0)
+
+DEPENDENCIES:
+  - immersive-reader-sdk (from `https://github.com/microsoft/immersive-reader-sdk.git`)
+
+EXTERNAL SOURCES:
+  immersive-reader-sdk:
+    :git: https://github.com/microsoft/immersive-reader-sdk.git
+
+CHECKOUT OPTIONS:
+  immersive-reader-sdk:
+    :commit: 0cfdbde9c93002529668db9925542b16d71b52b0
+    :git: https://github.com/microsoft/immersive-reader-sdk.git
+
+SPEC CHECKSUMS:
+  immersive-reader-sdk: 7bcd884befcc38340f783c9509ee194ebd6f6012
+
+PODFILE CHECKSUM: a3e56beec98aa224f2593314155b824a13732054
+
+COCOAPODS: 1.10.2
